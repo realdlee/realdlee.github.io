@@ -4,7 +4,7 @@ title:  "How to Attend the Berkshire Hathaway Annual Meeting Part 1"
 date:   2015-06-06
 categories: mediator feature
 tags:
-image: /assets/article_images/2015-06-06-how-to-attend-berkshire-hathaway-annual-meeting-part-1/meeting_credential.JPG
+image: /assets/article_images/2015-06-06/meeting_credential.JPG
 ---
 I attended the Berkshire Hathaway shareholder meeting in May 2015, and it was a blast.  Since it was my first time, I had questions through the process and had difficulty finding the answers.  Here, I’ll share some info and tips on how you can attend and make the most of the event.
 
