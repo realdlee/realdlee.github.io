@@ -6,6 +6,7 @@ categories: mediator feature
 tags:
 image: /assets/article_images/2015-06-06/meeting_credential.jpg
 ---
+
 I attended the Berkshire Hathaway shareholder meeting in May 2015, and it was a blast.  Since it was my first time, I had questions through the process and had difficulty finding the answers.  Here, I’ll share some info and tips on how you can attend and make the most of the event.
 
 # What is it?
