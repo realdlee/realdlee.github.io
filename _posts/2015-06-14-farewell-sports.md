@@ -7,7 +7,7 @@ tags:
 image: /assets/article_images/2015-06-14/oracle_arena.jpg
 ---
 
-At 1am, after I had read all the recaps and rewatched the highlights from a surprisingly anti-climatic game 4 of the NBA Finals, I decided to cut sports out of my life. I don't mean the playing of sports, just the consumption of sports as a fan.
+At 1am, after I had read all the recaps and rewatched the highlights from a surprisingly anticlimactic game 4 of the NBA Finals, I decided to cut sports out of my life. I don't mean the playing of sports, just the consumption of sports as a fan.
 
 How much time do I spend exactly? First off, I support a lot of teams: the SF Giants, the Warriors, the 49ers, the Cowboys, the Mavericks, Texas football, Duke football, and my favorite sports team of them all, Duke basketball.  Along with my teams, I naturally follow all the respective leagues. I also keep current on the Champions League, our national men’s and women’s soccer team, major tennis tournaments, horse races, golf majors, World Cup qualifiers, the occasional rugby game, and just about anything that ESPN will report on.
 
