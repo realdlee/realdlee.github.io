@@ -2,7 +2,7 @@
 layout: post
 title:  "Farewell Sports"
 date:   2015-06-14
-categories: mediator feature
+categories:
 tags:
 image: /assets/article_images/2015-06-14/oracle_arena.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Enums in Rails Apps"
 date:   2015-06-18
-categories: mediator feature
+categories:
 tags: code
 image: /assets/images/background_image.jpg
 ---

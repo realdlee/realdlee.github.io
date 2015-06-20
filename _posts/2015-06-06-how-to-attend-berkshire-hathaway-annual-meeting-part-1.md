@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Attend the Berkshire Hathaway Annual Meeting Part 1"
 date:   2015-06-06
-categories: mediator feature
+categories:
 tags:
 image: /assets/article_images/2015-06-06/meeting_credential.jpg
 ---
