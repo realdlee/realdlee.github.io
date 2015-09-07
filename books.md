@@ -7,6 +7,15 @@ permalink: /books/
 I've always loved to read.  Feel free to send any recommendations.
 
 #2015
+- Fresh off the Boat by Eddie Huang (Sept 2015)
+- Hard-Boiled Wonderland and the End of the World by Haruki Murakami (Aug 2015)
+- Don't Make me Think Revisited: A Common Sense Approach to Web and Mobile Usability by Steve Krug (Aug 2015)
+- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (Aug 2015)
+- The Obstacle is the Way: The Timeless Art of Turning Trials into Triumph by Ryan Holiday (Aug 2015)
+- The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone (Aug 2015)
+- Remote: Office not Required by Jason Fried and DHH (Aug 2015)
+- Franklin BBQ by Aaron Franklin (July 2015)
+- Fate of States by Meredith Whitney (July 2015)
 - #GIRLBOSS by Sophia Amoruso (June 2015)
 - On Writing by Stephen King (June 2015)
 - [Get Rich Carefully](http://www.amazon.com/Jim-Cramers-Get-Rich-Carefully/dp/0142181382) by Jim Cramer (June 2015)
